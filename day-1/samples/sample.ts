@@ -3,6 +3,14 @@ pqr3stu8vwx
 a1b2c3d4e5f
 treb7uchet`;
 
+export const sample2 = `two1nine
+eightwothree
+abcone2threexyz
+xtwone3four
+4nineeightseven2
+zoneight234
+7pqrstsixteen`;
+
 export const day1part1 = `six1mpffbnbnnlxthree
 4eight3one92
 9nine2xnhvjtjlzj48
@@ -1001,5 +1009,11 @@ nbmntwolntd1zvzplfzthree11seven
 kpzfgpxdonesix2fourninefourfour
 fbdqzbmjnkmqcgeight5five
 425six14two46
+jhctmxconelfkgmprnfourseven8twofkjvlvnjgd
+twonrpvnnmvkh2threejzcpz`;
+
+export const sample3 = `fpqjfcpheight4twofive5kpcnntbnnq4tcfbkqh
+6oneighthlf
+572hcvfdbgt9twoonechngccmqc
 jhctmxconelfkgmprnfourseven8twofkjvlvnjgd
 twonrpvnnmvkh2threejzcpz`;
